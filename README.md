@@ -1,16 +1,16 @@
 [![MasterHead](https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif)]
 <h1 align="center">Hi 👋, I'm Ayush Bisht</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Greetings, code explorers! 🚀 I'm Ayush, embarking on the exciting quest of turning ideas into functional and elegant lines of code</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=ayubi01&label=Profile%20views&color=0e75b6&style=flat](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)" alt="" /> </p>
 
-- 🌱 I’m currently learning **DSA, C++ & JS**
+- 🌱 I’m currently learning: **  ML, SQL, DSA, C++ & JS**
 
-- 📫 How to reach me **ayushbisht323@gmail.com**
+- 📫 How to reach me: **  ayushbisht323@gmail.com**
 
-- ⚡ Fun fact **I talk to algorithms, and sometimes they talk back. It's a complicated relationship**
+- ⚡ Fun fact: **  I believe in the saying 'Syntax is everything' – because a missing semicolon can change the world.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach me through:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-bisht-43b97a24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-bisht-43b97a24a" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/beast's hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="beast's hub" height="30" width="40" /></a>
