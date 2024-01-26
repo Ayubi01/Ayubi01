@@ -35,9 +35,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ayubi01&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ayubi01&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayubi01&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayubi01&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="display:block; margin:auto;" alt="Top Languages" >
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Ayubi01&icon=3&color=3)](https://visitcount.itsvg.in)
 
 
