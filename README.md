@@ -22,7 +22,7 @@
 </p>
 <hr>
 
-<img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1706286676~exp=1706287276~hmac=e76e80c4721c71abe38cf51f41074878981be2f3196bda55b01e4639bd6470aa" align="left" style="height:250px; width:250px"></img>
+<img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1706286676~exp=1706287276~hmac=e76e80c4721c71abe38cf51f41074878981be2f3196bda55b01e4639bd6470aa" align="left" style="height:250px; width:250px">
 
 <h3 ># 💻 Tech Stack:</h3>
 
