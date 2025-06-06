@@ -56,21 +56,25 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayubi01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<table style="width:100%; border-collapse: collapse; border-spacing: 10px; border: none;">
+  <tr>
+    <td style="text-align:center; border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ayubi01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" style="width:100%; max-width:300px; border-radius:5px;">
+    </td>
+    <td style="text-align:center; border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayubi01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" style="width:100%; max-width:300px; border-radius:5px;">
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center; border: none;">
+      <img src="https://streak-stats.demolab.com?user=Ayubi01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph" style="width:100%; max-width:300px; border-radius:5px;">
+    </td>
+    <td style="text-align:center; border: none;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSauoBcqPLg62vMuiRX8x_3aSO75XxHYVhiug&s" alt="extra image" style="width:100%; max-width:300px; border-radius:5px;">
+    </td>
+  </tr>
+</table>
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayubi01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Ayubi01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-<img align="right" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSauoBcqPLg62vMuiRX8x_3aSO75XxHYVhiug&s"  />
-</div>
-
-###
 
 
 ###
@@ -101,14 +105,18 @@
 
 ###
 
-<img align="left" height="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
 
-###
-
-<div align="left">
+<div align="center" >
+    <img align="left" height="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <p>---
+
+Thanks for stopping by! 😊 If you like what you see, feel free to explore my repositories and leave a ⭐️. Let’s connect, collaborate, and build something amazing together! 🚀
+
+Happy coding! 💻✨
+</p>
 </div>
 
 ###
