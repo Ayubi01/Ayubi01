@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="529" src="https://sdmntpreastus.oaiusercontent.com/files/00000000-f29c-61f9-a3c7-f224249550cb/raw?se=2025-06-06T19%3A30%3A58Z&sp=r&sv=2024-08-04&sr=b&scid=20f0ceaa-ed3e-56a2-9971-d7233023e1ed&skoid=02b7f7b5-29f8-416a-aeb6-99464748559d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-06T02%3A14%3A59Z&ske=2025-06-07T02%3A14%3A59Z&sks=b&skv=2024-08-04&sig=KDRBXK9fOhsiGAWKdIOKdI7IH2V0DP66lWN6GaebIlo%3D"  />
-</div>
 
 ###
 
