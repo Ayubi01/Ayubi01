@@ -1,12 +1,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Ayubi01/count.svg?"  />
-</div>
-
-###
-
 <h1 align="center">👋 Hey there! I'm a Developer and ML Enthusiast</h1>
 
 ###
@@ -118,3 +112,7 @@ Happy coding! 💻✨
 </div>
 
 ###
+
+
+
+
